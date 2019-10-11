@@ -1,8 +1,8 @@
 {
-  "name": "socksv5",
-  "version": "0.0.6",
+  "name": "yassw",
+  "version": "0.0.2",
   "author": "Brian White <mscdex@mscdex.net>",
-  "description": "SOCKS protocol version 5 server and client implementations for node.js",
+  "description": "just an proxy server based on Brian White <mscdex@mscdex.net> 's socksv5 projest",
   "main": "./index",
   "scripts": {
     "test": "node test/test.js"
