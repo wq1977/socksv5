@@ -1,6 +1,6 @@
 {
   "name": "yassw",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "Brian White <mscdex@mscdex.net>",
   "description": "just an proxy server based on Brian White <mscdex@mscdex.net> 's socksv5 projest",
   "main": "./index",
